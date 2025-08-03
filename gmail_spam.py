@@ -5,8 +5,7 @@ import time
 import requests
 
 # === KONFIG TELEGRAM ===
-BOT_TOKEN = "
-          7483075373:AAGHrkHplZUg01gNRDfLgAtN9pk4L1EEEuU"
+BOT_TOKEN ="7483075373:AAGHrkHplZUg01gNRDfLgAtN9pk4L1EEEuU"
 CHAT_ID = "6664280154"
 PIN = "123456"
 
